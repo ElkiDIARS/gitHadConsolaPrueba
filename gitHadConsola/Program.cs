@@ -10,6 +10,9 @@ namespace gitHadConsola
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Elki Mimar Solano Cueva");
+            Console.ReadLine();
+
         }
     }
 }
